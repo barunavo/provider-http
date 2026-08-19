@@ -1,0 +1,33 @@
+internal/controller/cluster/disposablerequest/disposablerequest.go
+  s_4b63e47ba7bc23::t_f9e45c7cb2a607 162-170
+  s_4b63e47ba7bc23::t_952768403e2bb1 39
+internal/controller/namespaced/disposablerequest/disposablerequest.go
+  s_4b63e47ba7bc23::t_7830a3150d2550 39
+  s_4b63e47ba7bc23::t_c97a2b3e2c704f 164-172
+internal/controller/cluster/request/request.go
+  s_4b63e47ba7bc23::t_18c70f537cea28 35
+  s_4b63e47ba7bc23::t_518491a56d8848 81-89
+cmd/provider/main.go
+  s_4b63e47ba7bc23::t_12a7426481f73c 31,45-46
+  s_4b63e47ba7bc23::t_764d7808a18c52 98-103,111-115
+  s_4b63e47ba7bc23::t_46342098558dce 62
+internal/controller/namespaced/request/request.go
+  s_4b63e47ba7bc23::t_7702aec9737949 83-91
+  s_4b63e47ba7bc23::t_d6137566e02fd4 35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "33b12ad3fad544d7ee132c9a7c7072f3a8602b53",
+  "prompts": {},
+  "sessions": {
+    "s_4b63e47ba7bc23": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4948a962-4f6a-483c-bff7-0c30d62a9083",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Barunavo Pal <barunavo.pal@allianz.de>"
+    }
+  }
+}
