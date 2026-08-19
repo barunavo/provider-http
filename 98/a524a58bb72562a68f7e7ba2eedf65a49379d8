@@ -1,0 +1,23 @@
+resources-docs/request_docs.md
+  s_4b63e47ba7bc23::t_6ce47d78387c13 55-85
+internal/service/request/observe_test.go
+  s_4b63e47ba7bc23::t_36e60d3a49e30a 376,402
+internal/service/request/requestmapping/mapping.go
+  s_4b63e47ba7bc23::t_ad390adb4caf0f 14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "98a524a58bb72562a68f7e7ba2eedf65a49379d8",
+  "prompts": {},
+  "sessions": {
+    "s_4b63e47ba7bc23": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4948a962-4f6a-483c-bff7-0c30d62a9083",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Barunavo Pal <barunavo.pal@allianz.de>"
+    }
+  }
+}
