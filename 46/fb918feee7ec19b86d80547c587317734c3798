@@ -1,0 +1,33 @@
+apis/namespaced/disposablerequest/v1alpha2/disposablerequest_types.go
+  s_4b63e47ba7bc23::t_7eb9e0d3bdaa3c 30
+package/crds/http.m.crossplane.io_requests.yaml
+  s_4b63e47ba7bc23::t_9a8150ef56f05d 347-348
+package/crds/http.crossplane.io_requests.yaml
+  s_4b63e47ba7bc23::t_9a8150ef56f05d 691-692
+package/crds/http.m.crossplane.io_disposablerequests.yaml
+  s_4b63e47ba7bc23::t_9a8150ef56f05d 297-298
+package/crds/http.crossplane.io_disposablerequests.yaml
+  s_4b63e47ba7bc23::t_9a8150ef56f05d 616-617
+apis/cluster/request/v1alpha2/request_types.go
+  s_4b63e47ba7bc23::t_d7abaf5e942dda 43
+apis/namespaced/request/v1alpha2/request_types.go
+  s_4b63e47ba7bc23::t_0d79d0020bc504 42
+apis/cluster/disposablerequest/v1alpha2/disposablerequest_types.go
+  s_4b63e47ba7bc23::t_5064ca016ab5ab 30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "46fb918feee7ec19b86d80547c587317734c3798",
+  "prompts": {},
+  "sessions": {
+    "s_4b63e47ba7bc23": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4948a962-4f6a-483c-bff7-0c30d62a9083",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Barunavo Pal <barunavo.pal@allianz.de>"
+    }
+  }
+}
