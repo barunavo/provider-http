@@ -1,0 +1,66 @@
+internal/service/request/requestgen/request_generator_test.go
+  s_4b63e47ba7bc23::t_2a6b418d518b1b 202,204-206,318-321,339-342,363
+  s_4b63e47ba7bc23::t_62800a3e244466 135-138,165-168,195-198
+  s_4b63e47ba7bc23::t_333836f54c28e3 105-108
+  s_4b63e47ba7bc23::t_87e200ba620bd7 207,210,212-240
+  s_4b63e47ba7bc23::t_0cf1ee2d9febe2 297-300,360-362
+  s_4b63e47ba7bc23::t_54777231c72176 11-12
+  s_4b63e47ba7bc23::t_73cf8da22fe7c3 199-201
+  s_4b63e47ba7bc23::t_bbef00e35e27c8 203
+  s_4b63e47ba7bc23::t_afce524c23c9cb 208-209
+  s_4b63e47ba7bc23::t_65075ceaa8905e 211
+internal/controller/cluster/request/request_test.go
+  s_4b63e47ba7bc23::t_209eeba0c42aba 849,873,897,1006
+  s_4b63e47ba7bc23::t_b73c34577647ea 107,109,116,120,175,193,254,272,333,351,413
+internal/service/disposablerequest/deployaction_test.go
+  s_4b63e47ba7bc23::t_8af637fba1da75 33
+  s_4b63e47ba7bc23::t_82f19ff1c55a28 15
+  s_4b63e47ba7bc23::t_ab3e26a2a27952 459-504
+  s_4b63e47ba7bc23::t_8f9f0102f9603b 27,116,171,196,234,282,319,397,423
+internal/controller/namespaced/request/request_test.go
+  s_4b63e47ba7bc23::t_26dad417cc4649 195,260,278,339,357,418,436
+  s_4b63e47ba7bc23::t_96c728c651034f 72,74,81,85,837,861,885,994
+internal/service/request/requestgen/request_generator.go
+  s_4b63e47ba7bc23::t_0640257cc69160 99-100
+  s_4b63e47ba7bc23::t_ba4415988ebab3 19
+  s_4b63e47ba7bc23::t_8be5d1b36b23bc 111-113,116,119-127
+  s_4b63e47ba7bc23::t_a4a4edbfc30b75 32,37-38
+internal/controller/namespaced/disposablerequest/disposablerequest_test.go
+  s_4b63e47ba7bc23::t_f8cb3f8135808a 318,336,401,500,528,564,985,1009,1033
+  s_4b63e47ba7bc23::t_edf7a1ca035e5d 70,72,79,83
+internal/clients/http/client_test.go
+  s_4b63e47ba7bc23::t_ad085a33fcce90 614,975,1001
+  s_4b63e47ba7bc23::t_30e62fabac1a0b 552
+internal/controller/cluster/disposablerequest/disposablerequest_test.go
+  s_4b63e47ba7bc23::t_50b3ba6d492448 102,104,115,156,175
+  s_4b63e47ba7bc23::t_d9bcc04c251138 236,254,511,539,575,963,987,1011
+  s_4b63e47ba7bc23::t_9b3693e46a596a 111
+internal/service/request/observe_test.go
+  s_4b63e47ba7bc23::t_19d69e99361633 748-751
+  s_4b63e47ba7bc23::t_9b0d5c3762e1c5 126,163,182,201,224,247,282,322,357,382
+  s_4b63e47ba7bc23::t_9a73b88bef61f0 783-786
+  s_4b63e47ba7bc23::t_2b72e8580d036e 98,104
+internal/service/request/deployaction_test.go
+  s_4b63e47ba7bc23::t_750f5fbbbde6a4 84,135,187,238,289,325
+internal/service/disposablerequest/deployaction.go
+  s_4b63e47ba7bc23::t_e972ea15cf51f5 56-60,71,74
+internal/clients/http/client.go
+  s_4b63e47ba7bc23::t_c48cb6b0880638 92,96,98-100,102
+  s_4b63e47ba7bc23::t_3bd166e8bf36b6 36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "c636e9c481c7e7d2cd1d4fa23068ee21f7d5250a",
+  "prompts": {},
+  "sessions": {
+    "s_4b63e47ba7bc23": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4948a962-4f6a-483c-bff7-0c30d62a9083",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Barunavo Pal <barunavo.pal@allianz.de>"
+    }
+  }
+}
